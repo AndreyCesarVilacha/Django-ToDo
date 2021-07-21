@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from rest_framework.generics import LisdtAPIView
+from rest_framework.generics import ListAPIView
 from rest_framework.generics import CreateAPIView
 from rest_framework.generics import DestroyAPIView
 from rest_framework.generics import UpdateAPIView
